@@ -1,6 +1,6 @@
 # economia-deuda
 
-Este vocabulario está siendo desarrollado en el contexto de la actuación sobre datos abiertos del proyecto "Plataforma de Gobierno Abierto, Colaborativa e Interoperable" (http://datos.gob.es/es/noticia/plataforma-de-gobierno-abierto-colaborativa-e-interoperable), de la II Convocatoria de Ciudades Inteligentes (http://perfilcontratante.red.es/perfilcontratante/busqueda/DetalleLicitacionesDefault.action?idLicitacion=2932&visualizar=0) que organiza la AgendaDigital (http://www.agendadigital.gob.es/Paginas/index.aspx) 
+Este vocabulario está siendo desarrollado en el contexto de la actuación sobre datos abiertos del proyecto "Plataforma de Gobierno Abierto, Colaborativa e Interoperable" (http://www.red.es/redes/es/que-hacemos/ciudades-inteligentes/proyectos-en-ciudades), de la II Convocatoria de Ciudades Inteligentes (https://perfilcontratante.red.es/perfilcontratante/busqueda/DetalleLicitacionesDefault.action?idLicitacion=6707&visualizar=0) que organiza la AgendaDigital (http://www.agendadigital.gob.es/Paginas/index.aspx) 
 
 # Ficha de datos originales (OjoAlData100)
 
